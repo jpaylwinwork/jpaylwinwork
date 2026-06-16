@@ -26,6 +26,16 @@ La parte interesante es la arquitectura: datos persistidos en Vercel Blob (priva
 
 ---
 
+### [N8N Automations](https://github.com/jpaylwinwork/n8n-automations)
+Automatizaciones construidas con N8N para eliminar trabajo manual en finanzas, operaciones y marketing. Cada flow usa Claude como capa de razonamiento sobre datos no estructurados.
+
+Casos incluidos: procesamiento automático de facturas PDF vía email (10 min → 45 seg por factura), benchmark semanal de competidores con resumen ejecutivo generado por LLM. Stack actual: N8N + Claude Code para construir y deployar flows en 20–30 minutos.
+
+**Stack:** N8N · Claude API · Google Sheets · Gmail · Slack  
+**Repo:** https://github.com/jpaylwinwork/n8n-automations
+
+---
+
 ### [PM AI Toolkit](https://github.com/jpaylwinwork/pm-ai-toolkit)
 Stack personal de IA para trabajo de producto construido sobre Claude Code. Tres agentes especializados con roles definidos — engineer, user researcher y executive — que corren en paralelo para revisar PRDs, sintetizar research y enmarcar trabajo para liderazgo.
 
