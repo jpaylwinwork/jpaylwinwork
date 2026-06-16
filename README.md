@@ -4,19 +4,32 @@ Product Manager con más de 10 años construyendo productos digitales en fintech
 
 ---
 
-## Proyecto Principal
+## Proyectos
+
+### [Fantasy Chilean League](https://fantasychileanleague.com)
+Fantasy football para la Primera División de Chile — al estilo FPL pero para la liga local. Actualmente en beta privada con usuarios reales.
+
+Selección de equipo, puntos por rendimiento real de jugadores, mercado de fichajes, clasificación entre amigos. Construido en colaboración con un co-fundador usando **Lovable** — un builder de apps con IA que genera código React/TypeScript a partir de prompts, con diseño integrado y deploy automático.
+
+**Stack generado por Lovable:** React · TypeScript · Tailwind CSS · Supabase  
+**Live:** https://fantasychileanleague.com
+
+---
 
 ### [CS Di Testa — Panel de Estadísticas](https://github.com/jpaylwinwork/cs-di-testa)
-Dashboard de estadísticas en tiempo real para un equipo de fútbol amateur. Los jugadores ven sus stats de la temporada, el fixture, historial de partidos y álbum del equipo.
+Dashboard de estadísticas en tiempo real para un equipo de fútbol amateur. Stats de temporada, fixture, historial de partidos y álbum del equipo — con panel de admin para actualizar datos sin redeploy.
 
-**Stack:** Next.js 16 · TypeScript · Tailwind CSS · Vercel Blob · Dominio propio  
+La parte interesante es la arquitectura: datos persistidos en Vercel Blob (privado), leídos vía Server Components en cada request, con fallback a JSON local en desarrollo. Construido con **Claude Code**.
+
+**Stack:** Next.js 16 · TypeScript · Tailwind CSS · Vercel Blob  
 **Live:** https://www.ditesta.club
 
-Lo interesante no es la UI — es la arquitectura: los datos se actualizan vía Vercel Blob desde un panel de admin sin redeploy, con fallback a JSON local en desarrollo. Un producto real con usuarios reales.
+---
 
 ### [Coffee Personality Quiz](https://github.com/jpaylwinwork/quiz-project)
-Quiz de personalidad construido de spec a deploy en una sola sesión usando Claude Code.
+Quiz de personalidad construido de spec a deploy en una sola sesión con **Claude Code** — de requirements doc a producto live en Vercel.
 
+**Stack:** Next.js 16 · TypeScript · Tailwind CSS  
 **Live:** https://quiz-project-topaz-seven.vercel.app
 
 ---
@@ -34,9 +47,9 @@ Quiz de personalidad construido de spec a deploy en una sola sesión usando Clau
 
 ## Cómo Trabajo
 
-- **AI-native:** Claude Code para prototipos de producto, síntesis de investigación y specs
+- **AI-native:** uso Lovable, Claude Code y otras herramientas de IA para pasar de idea a producto en horas, no semanas
 - **Orientado a datos:** modelado de atribución, optimización de LTV, tests de incrementalidad
-- **Mentalidad de builder:** cómodo construyendo con Next.js, TypeScript y stacks web modernos
+- **Mentalidad de builder:** cómodo construyendo con stacks modernos y llevando productos a producción
 - **Idiomas:** Español (nativo) · Inglés (fluido) · Catalán (conversacional)
 
 ---
