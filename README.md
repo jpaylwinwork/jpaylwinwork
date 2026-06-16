@@ -26,14 +26,6 @@ La parte interesante es la arquitectura: datos persistidos en Vercel Blob (priva
 
 ---
 
-### [Coffee Personality Quiz](https://github.com/jpaylwinwork/quiz-project)
-Quiz de personalidad construido de spec a deploy en una sola sesión con **Claude Code** — de requirements doc a producto live en Vercel.
-
-**Stack:** Next.js 16 · TypeScript · Tailwind CSS  
-**Live:** https://quiz-project-topaz-seven.vercel.app
-
----
-
 ## Experiencia
 
 | Empresa | Rol | Lo que hice |
