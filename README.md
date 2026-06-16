@@ -26,6 +26,16 @@ La parte interesante es la arquitectura: datos persistidos en Vercel Blob (priva
 
 ---
 
+### [PM AI Toolkit](https://github.com/jpaylwinwork/pm-ai-toolkit)
+Stack personal de IA para trabajo de producto construido sobre Claude Code. Tres agentes especializados con roles definidos — engineer, user researcher y executive — que corren en paralelo para revisar PRDs, sintetizar research y enmarcar trabajo para liderazgo.
+
+Incluye frameworks de estrategia (Rumelt, Gibson-Biddle DHM), templates de PRD y workflows de análisis de datos con estimación de impacto.
+
+**Stack:** Claude Code · Sub-agentes personalizados · Markdown  
+**Repo:** https://github.com/jpaylwinwork/pm-ai-toolkit
+
+---
+
 ## Experiencia
 
 | Empresa | Rol | Lo que hice |
