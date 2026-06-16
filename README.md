@@ -1,40 +1,43 @@
 # Juan Pablo Aylwin
 
-Product Manager with 10+ years building digital products in fintech, e-commerce, and travel across Latin America and Europe. I work at the intersection of product strategy, data, and AI tooling — focused on shipping things that actually move the business.
-
-Currently exploring opportunities in fintech.
+Product Manager con más de 10 años construyendo productos digitales en fintech, e-commerce y aviación en Latinoamérica y Europa. Trabajo en la intersección entre estrategia de producto, datos y herramientas de IA — enfocado en ejecutar cosas que muevan el negocio.
 
 ---
 
-## Featured Project
+## Proyecto Principal
+
+### [CS Di Testa — Panel de Estadísticas](https://github.com/jpaylwinwork/cs-di-testa)
+Dashboard de estadísticas en tiempo real para un equipo de fútbol amateur. Los jugadores ven sus stats de la temporada, el fixture, historial de partidos y álbum del equipo.
+
+**Stack:** Next.js 16 · TypeScript · Tailwind CSS · Vercel Blob · Dominio propio  
+**Live:** https://www.ditesta.club
+
+Lo interesante no es la UI — es la arquitectura: los datos se actualizan vía Vercel Blob desde un panel de admin sin redeploy, con fallback a JSON local en desarrollo. Un producto real con usuarios reales.
 
 ### [Coffee Personality Quiz](https://github.com/jpaylwinwork/quiz-project)
-A personality quiz web app — built from product spec to live deployment in a single session using an AI-native workflow with Claude Code.
+Quiz de personalidad construido de spec a deploy en una sola sesión usando Claude Code.
 
-**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS · Vercel  
-**Live:** https://quiz-project-27m1n92ei-jpaylwinworks-projects.vercel.app
-
-The interesting part isn't the quiz — it's the process: requirements doc → style choices → build → iterate → shipped. No prior setup, no boilerplate left behind.
+**Live:** https://quiz-project-topaz-seven.vercel.app
 
 ---
 
-## Background
+## Experiencia
 
-| Company | Role | What I did |
-|---------|------|-----------|
-| **ID Finance** | Head of Product | Shifted business to LTV focus · Launched insurance product (+6.5% revenue) · Cut marketing spend 63% via channel optimization |
-| **Product People** | PM Consultant | N26 (fraud, -30% false positives) · AVIV Group (monetization strategy, €5M new revenue) |
-| **Falabella** | Sr. PM | ML-powered search (+4% revenue/visit) · AI recommendations (7% of Cyber Monday sales) |
-| **LATAM Airlines** | Strategy Manager | Domestic network P&L · 60% market share in 2 years |
+| Empresa | Rol | Lo que hice |
+|---------|-----|------------|
+| **ID Finance** | Head of Product | Cambio de foco a LTV · Lanzamiento de seguro (+6.5% revenue) · Reducción de gasto en marketing un 63% vía optimización de canales |
+| **Product People** | PM Consultant | N26 (fraude, −30% falsos positivos) · AVIV Group (estrategia de monetización, €5M de nuevo revenue) |
+| **Falabella** | Sr. PM | Búsqueda con ML (+4% revenue/visita) · Recomendaciones con IA (7% de las ventas del Cyber Monday) |
+| **LATAM Airlines** | Strategy Manager | P&L de red doméstica · 60% de participación de mercado en 2 años |
 
 ---
 
-## How I Work
+## Cómo Trabajo
 
-- **AI-native:** Claude Code for product prototyping, research synthesis, and spec writing
-- **Data-driven:** Attribution modeling, LTV optimization, incrementality testing
-- **Builder mindset:** Comfortable shipping with Next.js, TypeScript, and modern web stacks
-- **Languages:** Spanish (native) · English (fluent) · Catalan (conversational)
+- **AI-native:** Claude Code para prototipos de producto, síntesis de investigación y specs
+- **Orientado a datos:** modelado de atribución, optimización de LTV, tests de incrementalidad
+- **Mentalidad de builder:** cómodo construyendo con Next.js, TypeScript y stacks web modernos
+- **Idiomas:** Español (nativo) · Inglés (fluido) · Catalán (conversacional)
 
 ---
 
