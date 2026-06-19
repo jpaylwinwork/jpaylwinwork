@@ -6,23 +6,21 @@ Product Manager con más de 10 años construyendo productos digitales en fintech
 
 ## Proyectos
 
-### [Fantasy Chilean League](https://fantasychileanleague.com)
-Fantasy football para la Primera División de Chile — al estilo FPL pero para la liga local. Actualmente en beta privada con usuarios reales.
+### [Sobrielo Split](https://sobrielo-split.vercel.app)
+App para dividir gastos compartidos entre grupos — sin registro, sin fricción. Los usuarios crean un grupo, suben boletas, y la app calcula quién le debe qué a quién. Se une vía link o código, sin cuenta requerida. Construido con **Claude Code**.
 
-Selección de equipo, puntos por rendimiento real de jugadores, mercado de fichajes, clasificación entre amigos. Construido en colaboración con un co-fundador usando **Lovable** — un builder de apps con IA que genera código React/TypeScript a partir de prompts, con diseño integrado y deploy automático.
-
-**Stack generado por Lovable:** React · TypeScript · Tailwind CSS · Supabase  
-**Live:** https://fantasychileanleague.com
+**Stack:** Next.js · TypeScript · Tailwind CSS · Vercel  
+**Live:** https://sobrielo-split.vercel.app
 
 ---
 
-### [CS Di Testa — Panel de Estadísticas](https://github.com/jpaylwinwork/cs-di-testa)
-Dashboard de estadísticas en tiempo real para un equipo de fútbol amateur. Stats de temporada, fixture, historial de partidos y álbum del equipo — con panel de admin para actualizar datos sin redeploy.
+### [Fantasy Chilean League](https://fantasychileanleague.com)
+Fantasy football para la Primera División de Chile — al estilo FPL pero para la liga local. Actualmente en beta privada con usuarios reales.
 
-La parte interesante es la arquitectura: datos persistidos en Vercel Blob (privado), leídos vía Server Components en cada request, con fallback a JSON local en desarrollo. Construido con **Claude Code**.
+Selección de equipo, puntos por rendimiento real de jugadores, mercado de fichajes, clasificación entre amigos. Construido en colaboración con un co-fundador usando **Lovable**.
 
-**Stack:** Next.js 16 · TypeScript · Tailwind CSS · Vercel Blob  
-**Live:** https://www.ditesta.club
+**Stack:** React · TypeScript · Tailwind CSS · Supabase  
+**Live:** https://fantasychileanleague.com
 
 ---
 
