@@ -60,7 +60,7 @@ Incluye frameworks de estrategia (Rumelt, Gibson-Biddle DHM), templates de PRD y
 - **AI-native:** uso Lovable, Claude Code y otras herramientas de IA para pasar de idea a producto en horas, no semanas
 - **Orientado a datos:** modelado de atribución, optimización de LTV, tests de incrementalidad
 - **Mentalidad de builder:** cómodo construyendo con stacks modernos y llevando productos a producción
-- **Idiomas:** Español (nativo) · Inglés (fluido) · Catalán (conversacional)
+- **Idiomas:** Español (nativo) · Inglés (fluido) · Portugués (conversacional)
 
 ---
 
